@@ -1,0 +1,8 @@
+{
+  "db_path": "data/ssf.db",
+  "scan_root": ".",
+  "log_level": "INFO",
+  "external_tools": true,
+  "bruteforce_threshold": 5,
+  "bruteforce_window": 300
+}
